@@ -8,7 +8,7 @@ public class Main {
         String laptopSerialID, smartphoneSerialID;
 
         laptop1 = new Laptop(); //Create and assign values to laptop1
-        laptop1.setOwnerName("Racque Cordeta");
+        laptop1.setOwnerName("Mark Entero");
         laptop1.setbrandName("Acer");
         laptop1.setSerialID("APRNOV0427");
 
