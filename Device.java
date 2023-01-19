@@ -6,7 +6,7 @@ class BicycleRegistration {
         Bicycle bike1, bike2, bike3;
         String owner1, owner2, tagNo;
         bike1 = new Bicycle(); //Create and assign values to bike1
-        bike1.setOwnerName("Adam Smith");
+        bike1.setOwnerName("Ada Smith");
         bike2 = new Bicycle(); //Create and assign values to bike2
         bike2.setOwnerName("Ben Jones");
 
